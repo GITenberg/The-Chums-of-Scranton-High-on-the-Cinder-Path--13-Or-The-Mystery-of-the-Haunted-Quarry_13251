@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4730'
     url: http://www.gutenberg.org/2009/agents/4730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13251#The-Chums-of-Scranton-High-on-the-Cinder-Path--13-Or-The-Mystery-of-the-Haunted-Quarry
 gutenberg_issued: '2004-08-22'
 gutenberg_type: Text
 identifiers:
